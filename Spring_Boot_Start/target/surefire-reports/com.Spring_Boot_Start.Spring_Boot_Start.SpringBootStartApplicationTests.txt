@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Spring_Boot_Start.Spring_Boot_Start.SpringBootStartApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.503 s -- in com.Spring_Boot_Start.Spring_Boot_Start.SpringBootStartApplicationTests
